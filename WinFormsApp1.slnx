@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Elementi di soluzione/">
+    <File Path="StaticRepository.cs" />
+  </Folder>
+  <Project Path="WinFormsApp1.csproj" />
+</Solution>
